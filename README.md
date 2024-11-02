@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bytebybyte01
 - 👀 I’m interested in learning new things to build powerful systems
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything related to web apps which use springboot, fastapi or on reactjs
 - 📫 How to reach me find me on x.com by same user name 
 - 😄 Pronouns: he/him
 
